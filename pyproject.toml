@@ -26,8 +26,7 @@ description = "Modmail is similar to Reddit's Modmail, both in functionality and
 license = 'AGPL-3.0-only'
 authors = [
     'ANGRO YT <noemail@example.com>',
-    
-]
+   ]
 readme = 'README.md'
 repository = 'https://github.com/kyb3r/modmail'
 homepage = 'https://github.com/kyb3r/modmail'
